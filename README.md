@@ -158,9 +158,9 @@ Alexa Orrico - [Github](https://github.com/alexaorrico) / [Twitter](https://twit
 
 Jennifer Huang - [Github](https://github.com/jhuang10123) / [Twitter](https://twitter.com/earthtojhuang)
 
-Alejandro Medina - [Github](https://github.com/mellab) / [Twitter](https://twitter.com/MentalAbduction)
 
-Luis Chaparro - [Github](https://github.com/luischaparroc) / [Twitter](https://twitter.com/luischaparroc)
+Jite kobimowe 
+Samuel Obayemi
 
 Second part of Airbnb: Joann Vuong
 ## License
